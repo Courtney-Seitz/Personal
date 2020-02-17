@@ -1,0 +1,61 @@
+body {
+  background-color: grey;
+}
+
+header {
+  text-align: center;
+  background: url(http://f.cl.ly/items/2f023l3N282D2v1x0p3H/IMG_0555.JPG);
+  background-size: cover;
+  color: #fff;
+}
+
+h1 {
+  font-size: 90px;
+  font-family: Lobster, cursive;
+}
+
+img {
+  height: 200px;
+  margin: 70px 0 0 0;
+  border: 7px double #fff;
+  border-radius: 30px;
+}
+
+a {
+  color: #fff;
+}
+
+ul {
+  padding: 10px;
+  background: rgba(0, 0, 0, .3);
+  font-family: Lobster, cursive;
+  font-size: 30px
+}
+
+li {
+  display: inline;
+  padding: 0 40px 0 40px
+}
+
+article {
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto
+}
+
+h2 {
+  font-family: 'EB Garamond', serif;
+  color: #DAE3E6;
+  font-size: 30px
+}
+
+p {
+  color: #D0D5D6
+}
+
+input {
+  border: 2px;
+  padding: 10px;
+  font-size: 18px;
+  font-family: 'EB Garamond', serif
+}
